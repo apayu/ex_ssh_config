@@ -17,3 +17,6 @@ Adjust the following module attrtube according to your needs.
 ```
 $ elixir aws_ssh_config.exs
 ```
+## TODO
+- Specify a bastion host for ProxyCommand
+- Specify `User`
